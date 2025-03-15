@@ -128,7 +128,3 @@ poetry run isort pubmed_company_papers
 - [BioPython](https://biopython.org/): Used for parsing PubMed data
 - [mypy](https://mypy.readthedocs.io/): Static type checking
 - [Black](https://black.readthedocs.io/): Code formatting
-
-## License
-
-MIT
